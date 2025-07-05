@@ -12,3 +12,8 @@ It shows key metrics like total revenue, top-selling products, and monthly sales
 - 📊 Monthly sales trends with charts
 - 📂 Organized file structure for easy access
 - 🔍 Clean and easy-to-understand layout
+
+
+## 🛠️ Tools & Technologies Used
+
+- **Excel** – for creating the dashboard and charts
