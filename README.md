@@ -25,4 +25,4 @@ It shows key metrics like total revenue, top-selling products, and monthly sales
 
 Here’s a preview of the Sales Dashboard:
 
-![Sales Dashboard Screenshot](images/dashboard_screenshot.png)
+![Sales Dashboard Screenshot](images/image.png)
