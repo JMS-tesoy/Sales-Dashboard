@@ -21,3 +21,8 @@ It shows key metrics like total revenue, top-selling products, and monthly sales
 
 ## 📂 Folder Structure
 
+## 🖥️ Screenshot
+
+Here’s a preview of the Sales Dashboard:
+
+![Sales Dashboard Screenshot](images/dashboard_screenshot.png)
