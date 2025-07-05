@@ -26,3 +26,11 @@ It shows key metrics like total revenue, top-selling products, and monthly sales
 Here’s a preview of the Sales Dashboard:
 
 ![Sales Dashboard Screenshot](images/image.png)
+
+## ▶️ How to Use
+
+1. Download or clone this repository.
+2. Open the Excel file inside the `/dashboard/` folder.
+3. Update the sales data in the `/data/` folder as needed.
+4. Refresh the dashboard sheet to see the updated charts and metrics.
+
