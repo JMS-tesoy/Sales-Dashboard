@@ -1,2 +1,4 @@
-# Sales-Dashboard
-A simple sales dashboard for tracking and visualizing ales data. includes key metrics total revenue, top products, and monthly trends.  Built for business reporting and data insights. 
+# 📊 Sales Dashboard
+
+This is a simple sales dashboard for tracking and visualizing business sales data.  
+It shows key metrics like total revenue, top-selling products, and monthly sales trends, helping you monitor sales performance easily.
